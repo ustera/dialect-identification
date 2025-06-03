@@ -1,2 +1,2 @@
-# dialect-identification
-Repository for Master's Thesis on Russian dialect identification
+# Development of a System for Classification Russian Dialectal Speech
+Master's Thesis, Ekaterina Zalivina
